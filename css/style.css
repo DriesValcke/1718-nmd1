@@ -1,5 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Patua+One');
+
 body{
     background-color:black;
     color:white;
     font-size:30px;
+}
+
+h1{
+    font-family:"Patua One"
+}
+
+.img{
+    width:600px;
+    height:600px;
 }
